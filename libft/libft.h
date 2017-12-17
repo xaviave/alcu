@@ -6,7 +6,7 @@
 /*   By: xamartin <marvin@le-101.fr>                +:+   +:    +:    +:+     */
 /*                                                 #+#   #+    #+    #+#      */
 /*   Created: 2017/11/27 16:32:24 by xamartin     #+#   ##    ##    #+#       */
-/*   Updated: 2017/12/17 19:03:44 by xamartin    ###    #+. /#+    ###.fr     */
+/*   Updated: 2017/12/17 19:19:27 by xamartin    ###    #+. /#+    ###.fr     */
 /*                                                         /                  */
 /*                                                        /                   */
 /* ************************************************************************** */
@@ -110,7 +110,6 @@ int					get_next_line(const int fd, char **line);
 # define KLCYN		"\e[96m"
 # define KORANGE	"\e[38;5;208m"
 # define KCRED		"\e[38;5;196m"
-# define KRESET		"\e[0m"		
-
+# define KRESET		"\e[0m"
 
 #endif
