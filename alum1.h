@@ -6,7 +6,7 @@
 /*   By: xamartin <marvin@le-101.fr>                +:+   +:    +:    +:+     */
 /*                                                 #+#   #+    #+    #+#      */
 /*   Created: 2017/12/17 15:43:43 by xamartin     #+#   ##    ##    #+#       */
-/*   Updated: 2017/12/17 17:23:42 by xamartin    ###    #+. /#+    ###.fr     */
+/*   Updated: 2017/12/17 19:11:52 by xamartin    ###    #+. /#+    ###.fr     */
 /*                                                         /                  */
 /*                                                        /                   */
 /* ************************************************************************** */
@@ -37,6 +37,6 @@ void				print_board(int board[10000]);
 void				put_blanks(int blanks);
 void				sort_board(int board[10000]);
 void				set_game_mode(int board[10000]);
-int					suite_main(void);
+int					next_main(void);
 
 #endif
